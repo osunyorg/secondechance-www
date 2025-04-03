@@ -22,7 +22,7 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Organisations
+- title: En contribution avec
   target: "/organisations/"
   kind: page
   new_tab: false
