@@ -8,13 +8,6 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Making-Off
-  target: "/projets/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
 - title: Réalisé par
   target: "/equipe/"
   kind: page
