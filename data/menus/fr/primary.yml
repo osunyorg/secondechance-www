@@ -15,13 +15,13 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: En contribution avec
-  target: "/organisations/"
+- title: À propos
+  target: "/equipe/"
   kind: page
   new_tab: false
   children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
+  path: "/persons"
+  file: content/fr/persons/_index.html
 - title: Portraits
   target: "/portraits/"
   kind: page
