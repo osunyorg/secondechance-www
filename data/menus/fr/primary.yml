@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Autour du sujet
+- title: Ressources utiles
   target: "/actualites/"
   kind: page
   new_tab: false
