@@ -8,7 +8,7 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: À propos
+- title: Le projet
   target: "/equipe/"
   kind: page
   new_tab: false
