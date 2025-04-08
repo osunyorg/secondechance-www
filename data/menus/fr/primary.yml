@@ -8,13 +8,6 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Réalisé par
-  target: "/equipe/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 - title: À propos
   target: "/equipe/"
   kind: page
