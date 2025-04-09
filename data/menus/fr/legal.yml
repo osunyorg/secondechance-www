@@ -8,7 +8,7 @@ items:
   children: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
-- title: Politique de confidentialité
+- title: CGU
   target: "/politique-de-confidentialite/"
   kind: page
   new_tab: false
