@@ -2,12 +2,12 @@
 title: Menu principal
 items:
 - title: Le projet
-  target: "/equipe/"
+  target: "/projet/"
   kind: page
   new_tab: false
   children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
+  path: "/pages/projet"
+  file: content/fr/pages/projet/_index.html
 - title: Portraits
   target: "/portraits/"
   kind: page
