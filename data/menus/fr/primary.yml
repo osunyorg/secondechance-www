@@ -8,11 +8,11 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: Ressources utiles
-  target: "/actualites/"
+- title: Structures
+  target: "/structures/"
   kind: page
   new_tab: false
   children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
 
