@@ -14,8 +14,8 @@ fr:
     pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
-    persons: /personnes/:slug/
-    persons_categories: /personnes/categories/:slug/
+    persons: /portraits/:slug/
+    persons_categories: /portraits/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
