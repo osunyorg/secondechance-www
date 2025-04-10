@@ -12,8 +12,8 @@ fr:
 
   permalinks:
     pages_categories: /:slug/
-    posts: /ressources/:year-:month-:day-:slug/
-    posts_categories: /ressources/:slug/
+    posts: /organisations-1/:year-:month-:day-:slug/
+    posts_categories: /organisations-1/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
   taxonomies:

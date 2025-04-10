@@ -16,7 +16,7 @@ items:
   path: "/pages/portraits"
   file: content/fr/pages/portraits/_index.html
 - title: Ressources utiles
-  target: "/ressources/"
+  target: "/organisations-1/"
   kind: page
   new_tab: false
   children: []
