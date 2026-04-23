@@ -13,3 +13,64 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/personnes/lili-jeanne-flourez/"
+to = "/portraits/lili-jeanne-flourez/"
+
+[[redirects]]
+from = "/personnes/categories/equipe/"
+to = "/portraits/categories/equipe/"
+
+[[redirects]]
+from = "/personnes/categories/portrait/"
+to = "/portraits/categories/portrait/"
+
+[[redirects]]
+from = "/personnes/"
+to = "/portraits/"
+
+[[redirects]]
+from = "/organisations/"
+to = "/structures/"
+
+[[redirects]]
+from = "/equipe/"
+to = "/portraits/"
+
+[[redirects]]
+from = "/personnes/beatrice/"
+to = "/portraits/beatrice/"
+
+[[redirects]]
+from = "/organisations-1/"
+to = "/actualites/"
+
+[[redirects]]
+from = "/equipe/noe-blanquart/"
+to = "/portraits/noe-blanquart/"
+
+[[redirects]]
+from = "/ressources/"
+to = "/actualites/"
+
+[[redirects]]
+from = "/projet/"
+to = "/a-propos/"
+
+[[redirects]]
+from = "/personnes/noe-blanquart/"
+to = "/portraits/noe-blanquart/"
+
+[[redirects]]
+from = "/equipe/lili-jeanne-flourez/"
+to = "/portraits/lili-jeanne-flourez/"
+
+[[redirects]]
+from = "/equipe/categories/equipe/"
+to = "/portraits/categories/equipe/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/"
+to = "/equipe-editoriale/"
+
