@@ -15,62 +15,62 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/personnes/lili-jeanne-flourez/"
+from = "/personnes/lili-jeanne-flourez/index.html"
 to = "/portraits/lili-jeanne-flourez/"
 
 [[redirects]]
-from = "/personnes/categories/equipe/"
+from = "/personnes/categories/equipe/index.html"
 to = "/portraits/categories/equipe/"
 
 [[redirects]]
-from = "/personnes/categories/portrait/"
+from = "/personnes/categories/portrait/index.html"
 to = "/portraits/categories/portrait/"
 
 [[redirects]]
-from = "/personnes/"
+from = "/personnes/index.html"
 to = "/portraits/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/structures/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/portraits/"
 
 [[redirects]]
-from = "/personnes/beatrice/"
+from = "/personnes/beatrice/index.html"
 to = "/portraits/beatrice/"
 
 [[redirects]]
-from = "/organisations-1/"
+from = "/organisations-1/index.html"
 to = "/actualites/"
 
 [[redirects]]
-from = "/equipe/noe-blanquart/"
+from = "/equipe/noe-blanquart/index.html"
 to = "/portraits/noe-blanquart/"
 
 [[redirects]]
-from = "/ressources/"
+from = "/ressources/index.html"
 to = "/actualites/"
 
 [[redirects]]
-from = "/projet/"
+from = "/projet/index.html"
 to = "/a-propos/"
 
 [[redirects]]
-from = "/personnes/noe-blanquart/"
+from = "/personnes/noe-blanquart/index.html"
 to = "/portraits/noe-blanquart/"
 
 [[redirects]]
-from = "/equipe/lili-jeanne-flourez/"
+from = "/equipe/lili-jeanne-flourez/index.html"
 to = "/portraits/lili-jeanne-flourez/"
 
 [[redirects]]
-from = "/equipe/categories/equipe/"
+from = "/equipe/categories/equipe/index.html"
 to = "/portraits/categories/equipe/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/equipe-editoriale/"
 
